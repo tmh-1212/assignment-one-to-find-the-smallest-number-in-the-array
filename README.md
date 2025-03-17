@@ -1,0 +1,1 @@
+# assignment-one-to-find-the-smallest-number-in-the-array
